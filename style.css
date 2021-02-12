@@ -1,0 +1,46 @@
+rm-feed  {
+    background-color: #232528 !important;
+}
+
+.input-panel {
+    background-color: #232528 !important;
+    border-top: none !important;
+}
+
+.feed-events div div div {
+    background-color: #43454a !important;
+    color: #e4e4e5;
+    border-right: none !important;
+}
+
+.ng-star-inserted ::after {
+    border-right: none !important;
+    border-left: none !important;
+}
+
+rm-track div{
+    background-color: #43454a !important;
+}
+
+rm-track .artist {
+    color: white !important;
+}
+
+.messageContainer  {
+     background-color: #43454a !important;
+     box-shadow: none !important; 
+     color: #e4e4e5;
+}
+
+button:disabled  {
+    background-color: #43454a !important;
+    color: #e4e4e5 !important;
+}
+
+rm-show .details {
+    background: #f44336 !important;
+}
+
+a {
+    color: #6ec6ff;
+}
