@@ -44,3 +44,11 @@ rm-show .details {
 a {
     color: #6ec6ff;
 }
+
+body::-webkit-scrollbar {
+  background-color: #232528;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #43454a !important;
+}
