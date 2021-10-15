@@ -45,8 +45,12 @@ a {
     color: #6ec6ff;
 }
 
+html {
+    scrollbar-color: #43454a #232528;
+}
+
 body::-webkit-scrollbar {
-  background-color: #232528;
+    background-color: #232528;
 }
 
 ::-webkit-scrollbar-thumb {
